@@ -4,7 +4,7 @@ title:  "Analysis of Violent Crimes"
 date:   2023-03-27 10:29:32 +0100
 categories: jekyll update
 ---
-<h1 style="color:darkred;">ANALYSIS ON ASSAULT, SEX OFFENSES AND PROSTITUTION</h1>
+<h1 style="color:darkred;"><i>A STUDY ON CRIMES: ASSAULT, SEX OFFENSES AND PROSTITUTION</i></h1>
 
 <p>This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 (2003-2018 / 2018-2022).
 
@@ -18,7 +18,7 @@ Prostitution - involves engaging, agreeing, or offering to engage in sexual cond
 
 Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent (Brown).
 </p>
-<img src="Crime Data.png" alt="Crime Data" width='1000' height='500' style="float: left; clear: left">
+<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/Crime%20Data.png" alt="Crime Data" width='1000' height='500' style="float: left; clear: left">
 
 <p>This section shows different perspectives on the full dataset, based on hours and weekdays. From the hours perspective we can see that Assault is consistently present through all day, the exception is between 4 and 6 am, where the numbers of Assaults decrease, probably caused by the fact that most people at that hour are asleep or prepare to go to work. Likewise from weekdays we can see that Assault is a crime that has similar numbers through all the week, reaching its peak on Saturday. Moreover Assault among the three crimes has extremely higher numbers respect to the other two. For Prostitution we can notice that most of the activity is taking place during the night on the hours side, on the weekdays it increase during the week, reaching its peak on Thursday, meanwhile during the weekend especially on Sundays it decreases as expected since the weekend it's usually about spending time with the family. For Sex Offences we can also see that is present and consistent through all week, reaching its peak during weekends, on the hours side most of the Sex Offences takes place between 10 pm and 2 am, its peak is at 12 pm.
 </p>
@@ -26,7 +26,7 @@ Forcible sex offense - any sexual act directed against another person, without t
 <br>
 
 <p>
-<img src="HeatMap.png" alt="HeatMap" width='500' height='500' >
+<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/HeatMap.png" alt="HeatMap" width='500' height='500' style="float: left; clear: left">
 <figcaption><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
