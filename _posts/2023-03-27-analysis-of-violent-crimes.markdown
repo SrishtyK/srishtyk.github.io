@@ -4,6 +4,9 @@ title:  "Analysis of Violent Crimes"
 date:   2023-03-27 10:29:32 +0100
 categories: jekyll update
 ---
+![Heat](/srishtyk.github.io/_posts/images/heat.png)
+![Heat](/srishtyk.github.io/images/heat.png)
+
 <!DOCTYPE html>
 <html>
 <body>
