@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 <h1 style="color:darkred;"><i>A STUDY ON CRIMES: ASSAULT, SEX OFFENSES AND PROSTITUTION</i></h1>
 
-<p>This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 (2003-2018 / 2018-2022).
+<p align="justify">This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 (2003-2018 / 2018-2022).
 
 We present various visualizations concerning the distribution of those crimes over time and the location of the incidents to uncover patterns behind the data. We also cite various articles and reports to help justify what was observed during the analysis.
 
@@ -18,20 +18,20 @@ Prostitution - involves engaging, agreeing, or offering to engage in sexual cond
 
 Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent (Brown).
 </p>
-<p>
-![CRIME](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/Crime%20Data.png")
+<p align="justify">
+![CRIME](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/Crime%20Data.png)
 
 This section shows different perspectives on the full dataset, based on hours and weekdays. From the hours perspective we can see that Assault is consistently present through all day, the exception is between 4 and 6 am, where the numbers of Assaults decrease, probably caused by the fact that most people at that hour are asleep or prepare to go to work. Likewise from weekdays we can see that Assault is a crime that has similar numbers through all the week, reaching its peak on Saturday. Moreover Assault among the three crimes has extremely higher numbers respect to the other two. For Prostitution we can notice that most of the activity is taking place during the night on the hours side, on the weekdays it increase during the week, reaching its peak on Thursday, meanwhile during the weekend especially on Sundays it decreases as expected since the weekend it's usually about spending time with the family. For Sex Offences we can also see that is present and consistent through all week, reaching its peak during weekends, on the hours side most of the Sex Offences takes place between 10 pm and 2 am, its peak is at 12 pm.
 </p>
 
 <br>
 
-<p>
-<img src="/HeatMap.png" alt="HeatMap" width='500' height='500' style="float: left; clear: left">
+<p align="justify">
+<img src="/_posts/HeatMap.png" alt="HeatMap" width='500' height='500' style="float: left; clear: left">
 <figcaption><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
-<p>It can be seen through the heat map that the crime rate significantly decreased after 2018 compared to the period 2003-2017, especially in the regions Richmond, Park, Taraval and Ingleside. In Northern and Bayview district, a small change can be seen here as well. But the no change were seen in Central, Tenderloin, and Southern district of San Fancisco.
+<p align="justify">It can be seen through the heat map that the crime rate significantly decreased after 2018 compared to the period 2003-2017, especially in the regions Richmond, Park, Taraval and Ingleside. In Northern and Bayview district, a small change can be seen here as well. But the no change were seen in Central, Tenderloin, and Southern district of San Fancisco.
 
 Historically, Tenderloin has been a crime hub in San Fransico. Huge change were seen in early 19th Century and the neighborhood has always carried a scruffy exterior since then. Years later the Tenderloin boomed during World War II and several million military members passed through the city that helped fill the coffers of the restaurant, bars and nightclubs. Bar girls aka B-girls would hustle men and then were arrested for vagrancy.This eventually led to the prevalance of prostitution in the district.
 
@@ -102,17 +102,17 @@ Significant decrease in assaults were seen after 2018 because SFPD expanded its 
   </body>
 </html>
 
-<p><i>Interactive figure showing distribution of assault, prostitution and forcible sex offences throught the 2003-2022 period; Each crime is represented by a different color; Yearly crime counts have been divided by the total number of crimes so that for each type of crime bars sum up to 1
+<p align="justify"><i>Interactive figure showing distribution of assault, prostitution and forcible sex offences throught the 2003-2022 period; Each crime is represented by a different color; Yearly crime counts have been divided by the total number of crimes so that for each type of crime bars sum up to 1
 </p></i>
 <p>
 The above figure clearly shows that the most recent crime rates for all three types of crimes have dropped quite significantly compared to the first decade of the 21st century. We will look into the patterns more deeply and provide possible explanations for them.
 </p>
-<p>
+<p align="justify">
 Starting in 2003 prostitution crime rate was at a pretty high level. It dropped in the next 2 years only to come back to the previous level in 2007. From that point number of incidents gradually kept getting smaller. The general decreasing tendency in the first decade of the 21st century might have been caused by First Offender Prostitution Program (the so-called "john school") initiative launched in San Francisco in 1995. The program was aimed at educating men arrested for soliciting prostitutes. According to research done by Abt Associates Inc. (FOPP): "The program is effective in producing positive shifts in attitudes and gains in knowledge. More importantly, the program was found to have reduced recidivism."
 
 In the second half of the period, two noteworthy drops can be observed, one around 2012 and the other in 2020. The first of them might have been caused by the passing of Proposition 35 by the Californian government in November 2012 (Prop 35). The proposal made several changes to the state law regarding human trafficking and sex offenses. Most importantly it expanded the definition of human trafficking, increased penalties imposed for human trafficking, and forced registered sex offenders (incl. sex workers) to provide police with personal identifiers for internet communication and activity. All those taken measures could effectively scare away people from involving in those activities. The latter, on the other hand, is almost surely the outcome of covid-19 pandemic. In the period of lockdown and minimal social contact using prostitution services became difficult if not even impossible.
 </p>
-<p>
+<p align="justify">
 Both of those crimes are classified as violent crimes and share a similar pattern so we will discuss them together.
 
 The distribution of assault incidents is rather steady and even up to 2017. In 2018, however, the crime rate dropped and settled on a new lower level, even decreasing even further briefly in 2020.
@@ -121,7 +121,7 @@ Forcible sex offenses, on the other hand, were also steady until 2007 but then s
 
 Those two cases clearly show a meaningful drop in 2018. So what happened then? According to a CBS article (CBS) based on the SFPD crime reports (Crime reports), there were several initiatives introduced by the police department to minimize those crime rates. Police collaborated closely with community-based anti-violence partners and established Crime Gun Investigations Center. This led to an increase in the number of weapons seized by 25% compared to 2017 and resulted in a decrease in gun-related violence. Moreover, police changed the strategy of patrolling increasing its presence on the streets and shortening the response time. In 2018 UC Berkeley conducted a study showing that the latter had a positive impact on crime deterrence (UC Berkeley study) “The study suggests that a greater visible police presence helped reduce certain crimes in San Francisco in the two months following redeployment,” said Evan White, the head of UC Berkeley-based California Policy Lab. Those initiatives successfully decreased the number of incidents of violent crimes like assaults or forcible sex offenses.
 </p>
-<p>
+<p align="justify">
 The analysis shows that each of the crimes has a different temporal pattern and magnitude. Assault, having by far the biggest number of incidents, is distributed evenly through the week and the day with an exception of 4-6 AM. Sex offenses, the least common of the crimes, is also even throughout the week but is more common during night hours. Prostitution incidents, on the other hand, are mostly recorded in the middle of the week and are the most highly polarized between day and night time.
 
 Although the crimes differ in those aspects they all decreased in the 2003-2022 period very significantly. Crime rates in the past 4 years are much lower than in the first decade of the 21st century. All drops were impacted by the covid-19 pandemic but there were also different factors like Proposition 35 in case of prostitution or increased patrols and anti-violence initiatives in case of assault and sex offenses. It seems that San Francisco is becoming safer every year.
