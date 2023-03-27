@@ -24,7 +24,7 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-![Bokeh](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/bokeh.html)
+![Bokeh](https://github.com/suneman/socialdata2023/raw/e3c6f2f2d78cd60b4d0514e88f98b945c1af4aca/files/anscombe.png)
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
