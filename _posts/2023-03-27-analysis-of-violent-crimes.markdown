@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Analysis of Violent Crimes"
+title:  "Analysis of Crime in San Francisco"
 date:   2023-03-27 10:29:32 +0100
 categories: jekyll update
 ---
