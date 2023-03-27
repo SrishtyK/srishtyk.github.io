@@ -1,1 +1,16 @@
-prova 
+---
+layout: post
+title:  "Magazine"
+date:   2023-03-27 10:10:32 +0100
+categories: jekyll update
+---
+
+WELCOME 
+
+<embed 
+       type="text/html" 
+       src="/bokeh.html"
+       width="1100"
+       height="600"
+       >
+</embed>
