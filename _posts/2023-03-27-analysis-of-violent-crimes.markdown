@@ -18,7 +18,6 @@ Prostitution - involves engaging, agreeing, or offering to engage in sexual cond
 
 Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent (Brown).
 </p>
-![Anscombe](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/anscombe.png)
 
 ![Crime](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/crime.png)
 <p align="justify">
@@ -27,9 +26,8 @@ This section shows different perspectives on the full dataset, based on hours an
 
 <br>
 
-![Heatmap](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/heatmap.png)
+![Heat](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/heat.png)
 <p align="justify">
-<img src="_posts/HeatMap.png" alt="HeatMap" width='500' height='500' style="float: left; clear: left">
 <figcaption><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
