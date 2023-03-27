@@ -32,8 +32,8 @@ This section shows different perspectives on the full dataset, based on hours an
 
 2
 <img src="./srishtyk.github.io/_posts/Heat.png" alt="HeatMap" width='500' height='500' >
-<img src="./srishtyk.github.io/images/Heat.png" alt="HeatMap" width='500' height='500' >
-<figcaption><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
+<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/images/heat.png" alt="HeatMap" width='100' height='100' >
+<figcaption align="justify"><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
 <p align="justify">It can be seen through the heat map that the crime rate significantly decreased after 2018 compared to the period 2003-2017, especially in the regions Richmond, Park, Taraval and Ingleside. In Northern and Bayview district, a small change can be seen here as well. But the no change were seen in Central, Tenderloin, and Southern district of San Fancisco.
