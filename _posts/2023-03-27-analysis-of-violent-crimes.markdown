@@ -34,8 +34,9 @@ This section shows different perspectives on the full dataset, based on hours an
 
 ![Heat](https://github.com/SrishtyK/srishtyk.github.io/blob/main/images/heat.png)
 <p align="justify">
-<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/images/heat.png" alt="heat" width='100' height='100' />
-<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/images/heat.png" alt="heat"/>
+<picture>
+  <img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/images/heat.png">
+</picture>
 <figcaption align="justify"><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
