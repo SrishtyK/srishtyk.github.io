@@ -24,7 +24,7 @@ Forcible sex offense - any sexual act directed against another person, without t
 (<a href="https://dps.brown.edu/sites/default/files/CLERY%20CRIME%20OFFENSES%20AND%20DEFINITIONS.pdf">Brown</a>)
 </p>
 
-<p align="justify" style="padding:5px">
+<p align="justify" style="padding:5px" >
 <img class="crime" src="/assets/images/crime.png" width="500" height="400" style="float: left; clear: left">
 This section shows different perspectives on the full dataset, based on hours and weekdays. From the hours perspective we can see that Assault is consistently present through all day, the exception is between 4 and 6 am, where the numbers of Assaults decrease, probably caused by the fact that most people at that hour are asleep or prepare to go to work. Likewise from weekdays we can see that Assault is a crime that has similar numbers through all the week, reaching its peak on Saturday. Moreover Assault among the three crimes has extremely higher numbers respect to the other two. For Prostitution we can notice that most of the activity is taking place during the night on the hours side, on the weekdays it increase during the week, reaching its peak on Thursday, meanwhile during the weekend especially on Sundays it decreases as expected since the weekend it's usually about spending time with the family. For Sex Offences we can also see that is present and consistent through all week, reaching its peak during weekends, on the hours side most of the Sex Offences takes place between 10 pm and 2 am, its peak is at 12 pm.
 </p>
@@ -33,11 +33,12 @@ This section shows different perspectives on the full dataset, based on hours an
 <br>
 
 <p style="padding:5px">
-<img class="heat" src="/assets/images/heat.png" width="400" height="400" style="float: left; clear: left">
+<img class="heat" src="/assets/images/heat.png" width="400" height="400" style="float: left; clear: left; padding:5px" >
 <figcaption align="justify"><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
-
+<br>
+<br>
 <p align="justify">It can be seen through the heat map that the crime rate significantly decreased after 2018 compared to the period 2003-2017, especially in the regions Richmond, Park, Taraval and Ingleside. In Northern and Bayview district, a small change can be seen here as well. But the no change were seen in Central, Tenderloin, and Southern district of San Fancisco.
 
 Historically, Tenderloin has been a crime hub in San Fransico. Huge change were seen in early 19th Century and the neighborhood has always carried a scruffy exterior since then. Years later the Tenderloin boomed during World War II and several million military members passed through the city that helped fill the coffers of the restaurant, bars and nightclubs. Bar girls aka B-girls would hustle men and then were arrested for vagrancy.This eventually led to the prevalance of prostitution in the district.
