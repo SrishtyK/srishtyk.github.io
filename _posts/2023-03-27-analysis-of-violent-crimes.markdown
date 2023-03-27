@@ -18,7 +18,7 @@ Prostitution - involves engaging, agreeing, or offering to engage in sexual cond
 
 Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent (Brown).
 </p>
-![Anscombe](https://github.com/suneman/socialdata2023/raw/e3c6f2f2d78cd60b4d0514e88f98b945c1af4aca/files/anscombe.png)
+![Anscombe](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/anscombe.png)
 
 ![CrimeData](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/Crime%20Data.png)
 <p align="justify">
