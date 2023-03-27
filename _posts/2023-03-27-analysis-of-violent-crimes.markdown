@@ -13,13 +13,13 @@ We present various visualizations concerning the distribution of those crimes ov
 
 For clarification, below are the definitions of crimes:
 
-Assault - generally defined as an intentional act that puts another person in reasonable apprehension of imminent harmful or offensive contact. No physical injury is required, but the actor must have intended to cause harmful or offensive contact with the victim and the victim must have thereby been put in immediate apprehension of such contact (<a href="https://www.law.cornell.edu/wex/assault_and_battery">Cornell</a>) 
+Assault - generally defined as an intentional act that puts another person in reasonable apprehension of imminent harmful or offensive contact. No physical injury is required, but the actor must have intended to cause harmful or offensive contact with the victim and the victim must have thereby been put in immediate apprehension of such contact (<a href="https://www.law.cornell.edu/wex/assault_and_battery">Cornell</a>).
 
 
 Prostitution - involves engaging, agreeing, or offering to engage in sexual conduct with another person in return for a fee (<a href="https://www.law.cornell.edu/wex/assault_and_battery">Cornell</a>).
 
 Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent 
-(<a href="https://dps.brown.edu/sites/default/files/CLERY%20CRIME%20OFFENSES%20AND%20DEFINITIONS.pdf">Brown</a>)
+(<a href="https://dps.brown.edu/sites/default/files/CLERY%20CRIME%20OFFENSES%20AND%20DEFINITIONS.pdf">Brown</a>).
 </p>
 
 <p align="justify" style="padding:5px" >
@@ -117,7 +117,7 @@ The above figure clearly shows that the most recent crime rates for all three ty
 <p align="justify">
 Starting in 2003 prostitution crime rate was at a pretty high level. It dropped in the next 2 years only to come back to the previous level in 2007. From that point number of incidents gradually kept getting smaller. The general decreasing tendency in the first decade of the 21st century might have been caused by First Offender Prostitution Program (the so-called "john school") initiative launched in San Francisco in 1995. The program was aimed at educating men arrested for soliciting prostitutes. According to research done by Abt Associates Inc. (<a href="https://www.ojp.gov/pdffiles1/nij/grants/222451.pdf">FOPP</a>): "The program is effective in producing positive shifts in attitudes and gains in knowledge. More importantly, the program was found to have reduced recidivism."
 
-In the second half of the period, two noteworthy drops can be observed, one around 2012 and the other in 2020. The first of them might have been caused by the passing of Proposition 35 by the Californian government in November 2012 (a href="https://lao.ca.gov/ballot/2012/35_11_2012.aspx">Prop 35</a>). The proposal made several changes to the state law regarding human trafficking and sex offenses. Most importantly it expanded the definition of human trafficking, increased penalties imposed for human trafficking, and forced registered sex offenders (incl. sex workers) to provide police with personal identifiers for internet communication and activity. All those taken measures could effectively scare away people from involving in those activities. The latter, on the other hand, is almost surely the outcome of covid-19 pandemic. In the period of lockdown and minimal social contact using prostitution services became difficult if not even impossible.
+In the second half of the period, two noteworthy drops can be observed, one around 2012 and the other in 2020. The first of them might have been caused by the passing of Proposition 35 by the Californian government in November 2012 (<a href="https://lao.ca.gov/ballot/2012/35_11_2012.aspx">Prop 35</a>). The proposal made several changes to the state law regarding human trafficking and sex offenses. Most importantly it expanded the definition of human trafficking, increased penalties imposed for human trafficking, and forced registered sex offenders (incl. sex workers) to provide police with personal identifiers for internet communication and activity. All those taken measures could effectively scare away people from involving in those activities. The latter, on the other hand, is almost surely the outcome of covid-19 pandemic. In the period of lockdown and minimal social contact using prostitution services became difficult if not even impossible.
 </p>
 <p align="justify">
 Both of those crimes are classified as violent crimes and share a similar pattern so we will discuss them together.
