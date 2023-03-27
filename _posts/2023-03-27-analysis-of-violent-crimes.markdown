@@ -9,7 +9,8 @@ categories: jekyll update
 <body>
 <h1 style="color:darkred;"><i>A STUDY OF CRIMES: ASSAULT, SEX OFFENSES AND PROSTITUTION</i></h1>
 
-<p align="justify">This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 ([2003-2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry)) / ([2018-2022](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783)).
+<p align="justify">This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 (<a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry">2003-2018</a>)
+(<a href="https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783">2018-2022</a>).
 
 We present various visualizations concerning the distribution of those crimes over time and the location of the incidents to uncover patterns behind the data. We also cite various articles and reports to help justify what was observed during the analysis.
 
@@ -25,20 +26,14 @@ Forcible sex offense - any sexual act directed against another person, without t
 </p>
 
 <p align="justify">
-<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/crime.png" alt="crime" width='100' height='100' />
-<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/crime.png" alt="crime"  />
+<img class="crime" src="/assets/images/crime.png" width="500" height="500" style="float: left; clear: left">
 This section shows different perspectives on the full dataset, based on hours and weekdays. From the hours perspective we can see that Assault is consistently present through all day, the exception is between 4 and 6 am, where the numbers of Assaults decrease, probably caused by the fact that most people at that hour are asleep or prepare to go to work. Likewise from weekdays we can see that Assault is a crime that has similar numbers through all the week, reaching its peak on Saturday. Moreover Assault among the three crimes has extremely higher numbers respect to the other two. For Prostitution we can notice that most of the activity is taking place during the night on the hours side, on the weekdays it increase during the week, reaching its peak on Thursday, meanwhile during the weekend especially on Sundays it decreases as expected since the weekend it's usually about spending time with the family. For Sex Offences we can also see that is present and consistent through all week, reaching its peak during weekends, on the hours side most of the Sex Offences takes place between 10 pm and 2 am, its peak is at 12 pm.
 </p>
 
 <br>
 
-![Heat](./assets/images/heat.png)
-![Heat](/srishtyk.github.io/assets/images/heat.png)
 <div >
-<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/images/heat.png" alt="heat" width="500" height="500">
-<img class="image" src="/assets/images/heat.png">
-<img class="heat" src="/assets/images/heat.png">
-<img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/assets/images/heat.png" alt="heat" width="500" height="500">
+<img class="heat" src="/assets/images/heat.png" width="500" height="500" style="float: left; clear: left">
 <figcaption align="justify"><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </div>
