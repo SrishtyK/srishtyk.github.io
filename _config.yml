@@ -18,15 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-
 title: Understanding Violent Crimes in San Francisco
 email: srshtkejriwal@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the study of crimes that happened in San Francisco from 2003 to 2022. Prostitution, sex crimes and assault is prevalant in SF. We are here to seek the reason behind it and measures taken to reduce it by analysing through really cool plots. 
-domain: srishtyk.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://srishtyk.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /srishtyk.github.io/  
-
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SFCrimeStudy
 github_username:  SFCrimeStudy
