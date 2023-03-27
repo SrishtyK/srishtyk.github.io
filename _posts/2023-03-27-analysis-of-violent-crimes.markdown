@@ -18,10 +18,8 @@ Prostitution - involves engaging, agreeing, or offering to engage in sexual cond
 
 Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent (Brown).
 </p>
-![CRIMEDATA](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/Crime%20Data.png)
+![CRIME DATA](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/Crime%20Data.png)
 <p align="justify">
-![CRIME](https://github.com/SrishtyK/srishtyk.github.io/blob/main/_posts/Crime%20Data.png)
-
 This section shows different perspectives on the full dataset, based on hours and weekdays. From the hours perspective we can see that Assault is consistently present through all day, the exception is between 4 and 6 am, where the numbers of Assaults decrease, probably caused by the fact that most people at that hour are asleep or prepare to go to work. Likewise from weekdays we can see that Assault is a crime that has similar numbers through all the week, reaching its peak on Saturday. Moreover Assault among the three crimes has extremely higher numbers respect to the other two. For Prostitution we can notice that most of the activity is taking place during the night on the hours side, on the weekdays it increase during the week, reaching its peak on Thursday, meanwhile during the weekend especially on Sundays it decreases as expected since the weekend it's usually about spending time with the family. For Sex Offences we can also see that is present and consistent through all week, reaching its peak during weekends, on the hours side most of the Sex Offences takes place between 10 pm and 2 am, its peak is at 12 pm.
 </p>
 
