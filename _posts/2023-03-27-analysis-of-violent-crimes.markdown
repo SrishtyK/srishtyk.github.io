@@ -4,6 +4,9 @@ title:  "Analysis of Violent Crimes"
 date:   2023-03-27 10:29:32 +0100
 categories: jekyll update
 ---
+<!DOCTYPE html>
+<html>
+<body>
 <h1 style="color:darkred;"><i>A STUDY OF CRIMES: ASSAULT, SEX OFFENSES AND PROSTITUTION</i></h1>
 
 <p align="justify">This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 ([2003-2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry)) / ([2018-2022](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783)).
@@ -17,7 +20,9 @@ Assault - generally defined as an intentional act that puts another person in re
 
 Prostitution - involves engaging, agreeing, or offering to engage in sexual conduct with another person in return for a fee ([Cornell](https://www.law.cornell.edu/wex/assault_and_battery)).
 
-Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent ([Brown](https://dps.brown.edu/sites/default/files/CLERY%20CRIME%20OFFENSES%20AND%20DEFINITIONS.pdf)).
+Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent 
+<a href="https://dps.brown.edu/sites/default/files/CLERY%20CRIME%20OFFENSES%20AND%20DEFINITIONS.pdf">Brown</a>
+([Brown](https://dps.brown.edu/sites/default/files/CLERY%20CRIME%20OFFENSES%20AND%20DEFINITIONS.pdf)).
 </p>
 
 <p align="justify">
@@ -131,4 +136,5 @@ The analysis shows that each of the crimes has a different temporal pattern and 
 Although the crimes differ in those aspects they all decreased in the 2003-2022 period very significantly. Crime rates in the past 4 years are much lower than in the first decade of the 21st century. All drops were impacted by the covid-19 pandemic but there were also different factors like Proposition 35 in case of prostitution or increased patrols and anti-violence initiatives in case of assault and sex offenses. It seems that San Francisco is becoming safer every year.
 </p>
 
-
+</body>
+</html>
