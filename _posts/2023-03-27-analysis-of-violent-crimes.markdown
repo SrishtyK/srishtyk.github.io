@@ -6,17 +6,18 @@ categories: jekyll update
 ---
 <h1 style="color:darkred;"><i>A STUDY OF CRIMES: ASSAULT, SEX OFFENSES AND PROSTITUTION</i></h1>
 
-<p align="justify">This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 (2003-2018 / 2018-2022).
+<p align="justify">This article presents conclusions drawn from an analysis of assault, prostitution, and forcible sex offenses crime incidents reported in the San Francisco area. Data have been provided thanks to the SF OpenData project and include crime occurrences recorded between 2003 and 2022 ([2003-2018](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-Historical-2003/tmnf-yvry)) / ([2018-2022](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783)).
 
 We present various visualizations concerning the distribution of those crimes over time and the location of the incidents to uncover patterns behind the data. We also cite various articles and reports to help justify what was observed during the analysis.
 
 For clarification, below are the definitions of crimes:
 
-Assault - generally defined as an intentional act that puts another person in reasonable apprehension of imminent harmful or offensive contact. No physical injury is required, but the actor must have intended to cause harmful or offensive contact with the victim and the victim must have thereby been put in immediate apprehension of such contact (Cornell).
+Assault - generally defined as an intentional act that puts another person in reasonable apprehension of imminent harmful or offensive contact. No physical injury is required, but the actor must have intended to cause harmful or offensive contact with the victim and the victim must have thereby been put in immediate apprehension of such contact ([Cornell](https://www.law.cornell.edu/wex/assault_and_battery)).
 
-Prostitution - involves engaging, agreeing, or offering to engage in sexual conduct with another person in return for a fee (Cornell).
 
-Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent (Brown).
+Prostitution - involves engaging, agreeing, or offering to engage in sexual conduct with another person in return for a fee ([Cornell](https://www.law.cornell.edu/wex/assault_and_battery)).
+
+Forcible sex offense - any sexual act directed against another person, without the consent of the victim, including instances where the victim is incapable of giving consent ([Brown](https://dps.brown.edu/sites/default/files/CLERY%20CRIME%20OFFENSES%20AND%20DEFINITIONS.pdf)).
 </p>
 
 <p align="justify">
@@ -29,6 +30,7 @@ This section shows different perspectives on the full dataset, based on hours an
 ![Heat](https://github.com/SrishtyK/srishtyk.github.io/blob/main/images/heat.png)
 <p align="justify">
 <img src="https://github.com/SrishtyK/srishtyk.github.io/blob/main/images/heat.png" alt="heat" width='100' height='100' >
+<img src="images/heat.png" alt="heat" width='100' height='100' >
 <figcaption align="justify"><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
@@ -102,8 +104,9 @@ Significant decrease in assaults were seen after 2018 because SFPD expanded its 
   </body>
 </html>
 
-<p align="justify"><i>Interactive figure showing distribution of assault, prostitution and forcible sex offences throught the 2003-2022 period; Each crime is represented by a different color; Yearly crime counts have been divided by the total number of crimes so that for each type of crime bars sum up to 1
-</i></p>
+<p align="justify">
+<figcaption align="justify"><i>Interactive figure showing distribution of assault, prostitution and forcible sex offences throught the 2003-2022 period; Each crime is represented by a different color; Yearly crime counts have been divided by the total number of crimes so that for each type of crime bars sum up to 1.
+</i></figcaption></p>
 <p align="justify">
 The above figure clearly shows that the most recent crime rates for all three types of crimes have dropped quite significantly compared to the first decade of the 21st century. We will look into the patterns more deeply and provide possible explanations for them.
 </p>
