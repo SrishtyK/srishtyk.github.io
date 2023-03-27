@@ -33,8 +33,8 @@ This section shows different perspectives on the full dataset, based on hours an
 <br>
 
 <p style="padding:5px">
-<div  style="float: left; clear: left; padding:10px" >
-<img class="heat" src="/assets/images/heat.png" width="400" height="400">
+<div  >
+<img class="heat" src="/assets/images/heat.png" width="400" height="400" style="float: left; clear: left; padding:10px" >
 <figcaption align="justify"><i>Heat map shows the patterns of assault, prostitution and forcible sex offences changes over the period 2003-2022 in San Francisco. Yearly change can be seen through the heat map. Total number of crimes are grouped into clusters that happened in the period 2003-2022. Zooming in, the global cluster will start breaking up into smaller clusters. Zooming in all the way will result in individual markers.
 </i></figcaption>
 </p>
