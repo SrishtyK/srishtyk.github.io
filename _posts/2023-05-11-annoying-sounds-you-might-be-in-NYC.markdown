@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Annoying sounds You might be in NYC"
+title:  "Noise Pollution in NYC"
 date:   2023-05-11 16:50:32 +0100
 ---
 
