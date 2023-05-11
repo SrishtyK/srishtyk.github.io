@@ -5,7 +5,9 @@ date:   2023-05-11 16:50:32 +0100
 ---
 
 <h1 style="color:darkred;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
-
+<p align="justify" style="padding:5px" >
+<img class="crime" src="/assets/images/Noise.jpeg" width="500" height="400" style="float: left; clear: left">
+</p>
 <p align="justify">
 
 Living in New York provides great comfort, from being able to order food at any time of day to great nightlife as well as excellent job opportunities. But it comes with sacrifice, city’s major noise pollution.
