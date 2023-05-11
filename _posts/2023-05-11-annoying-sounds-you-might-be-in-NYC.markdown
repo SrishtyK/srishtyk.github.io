@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Annoying sounds? You might be in NYC"
-date:   2023-05-11 15:54:32 +0100
+title:  "Annoying sounds You might be in NYC"
+date:   2023-05-11 16:50:32 +0100
 categories: jekyll update
 ---
 
