@@ -8,7 +8,7 @@ date:   2023-05-11 16:50:32 +0100
 
 <p align="justify">
 
-Living in New York provides great comfort, being able to order food at any time of day to great nightlife as well as excellent job opportunities. But it comes with sacrifice, city’s major noise pollution.
+Living in New York provides great comfort, from being able to order food at any time of day to great nightlife as well as excellent job opportunities. But it comes with sacrifice, city’s major noise pollution.
 More than 30 million people in the U.S. have hearing loss due to exposure to loud noise. In New York City, nearly one in six adults report ringing in their ears or hearing loss. NYC.gov
 20% of New Yorkers are frequently disturbed by noise at home. To reduce noise exposure, Yorkers were asked to submit a noise complaint online or call 311. DEP and NYPD are the agencies in charge of enforcing NYC’s Noise Code.  People can lodge complaints in Online Forum 311 under several categories (from household noise, construction, or traffic). 
 
@@ -16,6 +16,7 @@ On studying the data available, “311 Service Requests from 2010 to the Present
 </p>
 
 <br>
+<h1 style="color:darkred;"><i>THE 5 BOROUGHS</i></h1>
 
 <h1 style="color:darkred;"><i>BUT WHY HELICOPTER NOISE?</i></h1>
 
