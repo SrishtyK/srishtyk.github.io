@@ -19,8 +19,7 @@ On studying the data available, “311 Service Requests from 2010 to the Present
 
 <h1 style="color:darkred;"><i>BUT WHY HELICOPTER NOISE?</i></h1>
 
-<p>This is the first paragraph.</p>
-<p style="margin-bottom: 10px;">This is the second paragraph.</p>
+
 
 
 <p align="justify">
@@ -31,14 +30,14 @@ Thousands of New Yorkers who are accustomed to working from home since the pande
 service requests to 311 so far.
   
 We can see that Manhattan has the highest number of complaints with 38961 complaints, followed by Queens with 10693 complaints, and Brooklyn with 2,368 complaints. Staten Island and the Bronx have the fewest complaints with only 62 and 53 complaints.
-
 We see that Manhattan has the highest number of complaints because a lot of people's apartments lie in the flight path and people are working from home now. Noise complaints were still getting lodged during covid and after because people were no longer sitting in soundproof offices but working from home with their windows open. Helicopters fly through the city for purposes like medical transport, law-enforcement operations, and commercial and tourist flight. In Manhattan, people fly through the World Trade Centre, the Empire State Building, the Statue of Liberty, and Central Park to take Instagram-worthy pictures. The pandemic-fueled source of air traffic also comes from a growing segment of air taxis from the airport. The post-covid era of hybrid work has increased the demand for air travel with workers flying every weekend for work as well as leisure. According to a recent report by the New York City Council, there has been an increase in helicopter activity in the city over the past few years, particularly in and around the Hudson River corridor. The report notes that "there has been an uptick in helicopter traffic, with more than 30,000 flights a year over the Hudson River Corridor" (NYC Council, 2019). This increase in helicopter activity could be contributing to the increase in noise complaints.
-The same report also notes that there have been efforts to address helicopter noise in the city, including regulations around helicopter flight paths and altitudes, and efforts to limit the number of tourist flights. However, the report suggests that these efforts have been only partially effective and that there is still a need for further action to address helicopter noise in the city.
   
+  
+The same report also notes that there have been efforts to address helicopter noise in the city, including regulations around helicopter flight paths and altitudes, and efforts to limit the number of tourist flights. However, the report suggests that these efforts have been only partially effective and that there is still a need for further action to address helicopter noise in the city.
 Laws are enforced and bills are getting passed to curb helicopter noise pollution, like limiting the time when aircraft are allowed and the option to sue companies. Sightseeing flights that don’t follow the city’s rules or depart from outside the Five Boroughs are being banned from the facility. 
+  
+  
 There have been efforts to address helicopter noise in the city, including regulations around helicopter flight paths and altitudes, and efforts to limit the number of tourist flights. However, the report suggests that these efforts have been only partially effective and that there is still a need for further action to address helicopter noise in the city.
-The New York City Noise Code balances the important reputation of New York as a vibrant, world-class city that never sleeps, with the needs of those who live in, work in, and visit the city.
-The Noise Code was created to reduce: “The making, creation or maintenance of excessive and unreasonable and prohibited noises within the city affects and is a menace to public health, comfort, convenience, safety, welfare and the prosperity of the people of the city.”
 
 
 </p>
