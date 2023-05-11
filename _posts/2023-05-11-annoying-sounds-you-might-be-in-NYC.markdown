@@ -20,7 +20,7 @@ On studying the data available, “311 Service Requests from 2010 to the Present
 <h1 style="color:darkred;"><i>BUT WHY HELICOPTER NOISE?</i></h1>
 
 <p>This is the first paragraph.</p>
-<p style="margin-bottom: 20px;">This is the second paragraph.</p>
+<p style="margin-bottom: 10px;">This is the second paragraph.</p>
 
 
 <p align="justify">
