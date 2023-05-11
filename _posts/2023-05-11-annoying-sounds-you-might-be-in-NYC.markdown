@@ -2,10 +2,9 @@
 layout: post
 title:  "Annoying sounds You might be in NYC"
 date:   2023-05-11 16:50:32 +0100
-categories: jekyll update
 ---
 
-<h1 style="color:darkred;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC.</i></h1>
+<h1 style="color:darkred;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
 
 <p align="justify">
 
