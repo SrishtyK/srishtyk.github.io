@@ -18,6 +18,11 @@ On studying the data available, “311 Service Requests from 2010 to the Present
 <br>
 
 <h1 style="color:darkred;"><i>BUT WHY HELICOPTER NOISE?</i></h1>
+
+<p>This is the first paragraph.</p>
+<p style="margin-bottom: 20px;">This is the second paragraph.</p>
+
+
 <p align="justify">
 
 There is a huge spike in the data on helicopter noise for 2021 and 2022. On analyzing the helicopter noise more closely, significant changes were seen in numbers. 
