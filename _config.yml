@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NYC Data Analysis
+title: US Data Analysis
 email: srshtkejriwal@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is a study on US cities data analysis
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: NYCDataStudy
-github_username:  NYCDataStudy
+twitter_username: USDataStudy
+github_username:  USDataStudy
 
 # Build settings
 theme: minima
