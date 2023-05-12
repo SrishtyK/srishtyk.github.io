@@ -5,7 +5,7 @@ date:   2023-05-11 16:50:32 +0100
 ---
 <html>
 
-<body style="background-image:linear-gradient(to right,rgb(0, 41, 115,0.4),rgb(242, 171, 0,0.4));">
+<body style="background-image:linear-gradient(to right,rgb(0, 41, 115,0.5),rgb(242, 171, 0,0.5));">
 
 
 
