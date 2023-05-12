@@ -10,7 +10,7 @@ date:   2023-05-11 16:50:32 +0100
 
 
 
-<h1 style="font-size:60px;font-weight: bold;color:Maroon;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
+<h1 style="font-size:40px;font-weight: bold;color:Maroon;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
 <p align="justify" style="padding:5px" >
 <img class="crime" src="/assets/images/Noise.jpeg" width="500" height="400" style="float: left; clear: left; padding:5px;padding-bottom:0px;">
 
@@ -55,7 +55,7 @@ So what borough do you think is the one that complains the most and about what? 
 As you can see we have six different plots in the side figure, each of the 6 plots takes into account one type of noise, as we explained before we have divided the noise complains into six types: social noise, animal noise, traffic noise, construction noise, helicopter noise and other kind of noise. The information that is immediately noticeable by looking at the picture is that the borough that complains the most in most categories is Manhattanis. It wins for traffic noise, helicopter noise, construction noise and other types of noise, which if we think that the main infastructures and also the centre of work life and most of the available hospitals in the city are in this zone, it shouldn't surprise us. 
 However we have two categories in which is not Manhattan to win, The Bronx is the one that complains the most for social noise, especially for parties and music, which if you think that this zone is the birthplace of hip hop and rap, according to history it makes actual sense, don't you think?
 In the end we have Staten Island that complains the most for animal noise.
-<img class="crime" src="/assets/images/general.png" width="600" height="400" style="padding:5px;padding-bottom:0px;">
+<img class="crime" src="/assets/images/general.png" width="800" height="400" style="padding:5px;padding-bottom:0px;">
 Finally in the plot below, it is given an overview of the whole dataset on the noise complains, and it confirms us that the most complaining borough is indeed Manhattan, followed by the Bronx,  Brooklyn, Queens and last Staten Island. 
 
 </p>
