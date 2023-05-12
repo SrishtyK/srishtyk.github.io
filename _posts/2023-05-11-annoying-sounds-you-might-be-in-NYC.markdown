@@ -23,6 +23,7 @@ On studying the data available, “311 Service Requests from 2010 to the Present
 
 <h1 style="color:Maroon;"><i>NATURE OF NYC NOISE</i></h1>
 
+<img class="crime" src="/assets/images/barplot.jpeg" width="500" height="400" style="float: right; clear: right; padding:10px;padding-bottom:5px;">
 <p align="justify" style="padding:5px">Let's start by looking at how noise is distributed in time. We decided to divide all of the complaints into 6 groups shown on the plot. Most of the analyzed groups have different yearly and hourly patterns but there are similar patterns among some of them. Traffic and Social noise groups are the most similar to each other. Complaints in those groups increased steadily until 2019 and spiked significantly in the last 3 years. This has most certainly been caused by covid forcing people to stay at home. Being unable to leave their homes people most likely found noise produced by their neighbours and passing by trains annoying. In terms of hourly patterns, almost a U-shaped distribution is observed. Starting at the lowest level in the early hours number of complaints grows reaching peaks during the night. New Yorkers might be used to this type of noise during the daytime as they are occupied with everyday tasks and most likely produce that noise themselves. It changes in the night when most of them try to relax and get some sleep. All of a sudden buzzing nightlife of their neighbours and loud vehicles becomes annoying.
 
 Animal noise has mostly been stable during the analyzed period. There is only one visible drop in 2020 which again can probably be attributed to covid. As a lot of pet owners stayed at home their pets didn't miss their favourite human beings anymore which helped keep them quiet. As for the hourly pattern, during the day number of complaints is mostly stable and definitely higher than during the night which makes sense because pets just like humans value a good night's sleep. Very similar patterns can be observed in Other complaint group. It's hard to come up with a single explanation in that case tough because this group involves noise pollution of different characteristics but it follows the pattern of increased number of complaints at night and constant growth throughout the years.
@@ -33,7 +34,6 @@ Helicopter noise pollution is the most surprising among the groups. Up until 201
 
 All in all, the noise pollution level is very high and in most cases has grown over the last years. Definitely, it is a very big concern for the population of New York.
 </p>
-<img class="crime" src="/assets/images/barplot.jpeg" width="500" height="400" style="float: left; clear: left; padding:10px;padding-bottom:5px;">
 <p align="justify" style="padding:5px">
 Knowing the nature of the complaint group types let's now look at the relationship between them. Analyzing the number of complaints per month in the period pairwise it can be seen that most pairs have a positive correlation between each other.
 
@@ -42,7 +42,7 @@ Other complaint group seems to be strongly positively correlated with all the ot
 Another pair worth taking a look at would be Construction and Animal noise. There is a clear pattern of positive correlation backed up by coefficient value and statistical significance. This might be due to construction works triggering noise coming from animals. Animals stressed by loud construction machinery often tend to become loud themselves. It only adds magnitude to the already frustrating noise coming from construction.
 
 
-<img class="crime" src="/assets/images/regression.jpeg" width="500" height="400" style="float: left; clear: left; padding:10px;padding-bottom:5px;">
+<img class="crime" src="/assets/images/regression.jpeg" width="400" height="400" style="float: right; clear: right; padding:10px;padding-bottom:5px;">
 The highest relationship can be however observed between Traffic and Social noises. Here, the cigar-shaped pattern along with a very strong coefficient means that these two groups are very strongly interrelated. As discussed before there are many similarities between these groups. The more people commute the higher the chance we are going to hear them talk to each other. Also, any kind of popular social event like a concert or sports match means increased traffic in the area let alone parades which from a noise pollution point of view are trafficking social tumult.
 Generally, in most cases, an increase in one type of noise pollution level comes along with an increase in some other group. When it rains it pours. It shows that the noise pollution problem in NY is a very complex issue but it could also potentially mean that tackling some of the issues could also reflect on the other.
 </p>
