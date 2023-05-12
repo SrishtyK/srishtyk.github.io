@@ -3,6 +3,12 @@ layout: post
 title:  "Noise Pollution in NYC"
 date:   2023-05-11 16:50:32 +0100
 ---
+<html>
+
+<body style="background-color:powderblue;">
+
+
+
 
 <h1 style="color:darkred;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
 <p align="justify" style="padding:5px" >
@@ -63,3 +69,6 @@ There have been efforts to address helicopter noise in the city, including regul
 
 
 </p>
+
+</body>
+</html>
