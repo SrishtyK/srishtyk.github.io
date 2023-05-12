@@ -20,7 +20,30 @@ More than 30 million people in the U.S. have hearing loss due to exposure to lou
 
 On studying the data available, “311 Service Requests from 2010 to the Present” from the (<a href="https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9">NYC Open Data</a>) dataset, it was found that the major complaints were Noise complaints constituting 17.62% of total complaints. Responding City Government Agency responsible to register noise complaints are NYPD, DEP and EDC majorly. That works out to be 49 complaints every hour. We decided to dig deeper to gain a more quantitative understanding of where the noise comes from.
 </p>
+<p>Most of the analyzed groups have different yearly and hourly patterns but there are similar patterns among some of them.
 
+Traffic and Social noise groups are the most similar to each other. Complaints in those groups increased steadily until 2019 and spiked significantly in the last 3 years. This has most certainly been caused by covid forcing people to stay at home. Being unable to leave their homes people most likely found noise produced by their neighbours and passing by trains annoying. In terms of hourly patterns, almost a U-shaped distribution is observed. Starting at the lowest level in the early hours number of complaints grows reaching peaks during the night. New Yorkers might be used to this type of noise during the daytime as they are occupied with everyday tasks and most likely produce that noise themselves. It changes in the night when most of them try to relax and get some sleep. All of a sudden buzzing nightlife of their neighbours and loud vehicles becomes annoying.
+
+Animal noise has mostly been stable during the analyzed period. There is only one visible drop in 2020 which again can probably be attributed to covid. As a lot of pet owners stayed at home their pets didn't miss their favourite human beings anymore which helped keep them quiet. As for the hourly pattern, during the day number of complaints is mostly stable and definitely higher than during the night which makes sense because pets just like humans value a good night's sleep. Very similar patterns can be observed in Other complaint group. It's hard to come up with a single explanation in that case tough because this group involves noise pollution of different characteristics but it follows the pattern of increased number of complaints at night and constant growth throughout the years.
+
+Construction noise pollution is the only group that registered drops in recent years. It kept growing up until around 2019 and decreased ever since. Covid could be a significant factor here as it stopped a lot of ongoing and future construction problems. The lack of an increase in 2022 could also be influenced by the difficult economic situation. Hourly-wise two spikes can be observed one around 9 AM and the other around 23 PM. Although this noise is produced throughout the whole day they definitely become most frustrating when preventing people from falling asleep or waking them up early.
+
+Helicopter noise pollution is the most surprising among the groups. Up until 2018, almost no such complaints have been registered and all of a sudden people started flooding the 311 line with them. Compared to the last two years the number of complaints increased over 10-fold and reached 25 000. As for the hourly pattern, during the night complaints are rather low and from 6 AM they start growing reaching peak at 5 PM. One of the helicopter's biggest advantages is avoiding traffic jams so its attractiveness grows in the rush hours. This type of noise will be further analyzed in a separate section.
+
+All in all, the noise pollution level is very high and in most cases has grown over the last years. Definitely, it is a very big concern for the population of New York.
+</p>
+<p>
+Comment:
+Knowing the nature of the complaint group types let's now look at the relationship between them. Analyzing the number of complaints per month in the period pairwise it can be seen that most pairs have a positive correlation between each other.
+
+Other complaint group seems to be strongly positively correlated with all the other complaints. This might be because some of the unspecified noise sources could in fact be attributed to another group. It also matches the general impression of previous conclusions showing that noise pollution is mostly growing year by year.
+
+Another pair worth taking a look at would be Construction and Animal noise. There is a clear pattern of positive correlation backed up by coefficient value and statistical significance. This might be due to construction works triggering noise coming from animals. Animals stressed by loud construction machinery often tend to become loud themselves. It only adds magnitude to the already frustrating noise coming from construction.
+
+The highest relationship can be however observed between Traffic and Social noises. Here, the cigar-shaped pattern along with a very strong coefficient means that these two groups are very strongly interrelated. As discussed before there are many similarities between these groups. The more people commute the higher the chance we are going to hear them talk to each other. Also, any kind of popular social event like a concert or sports match means increased traffic in the area let alone parades which from a noise pollution point of view are trafficking social tumult.
+
+Generally, in most cases, an increase in one type of noise pollution level comes along with an increase in some other group. When it rains it pours. It shows that the noise pollution problem in NY is a very complex issue but it could also potentially mean that tackling some of the issues could also reflect on the other.
+</p>
 <br>
 <h1 style="color:Maroon;"><i>THE 5 BOROUGHS</i></h1>
 
