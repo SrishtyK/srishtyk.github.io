@@ -13,10 +13,6 @@ date:   2023-05-11 16:50:32 +0100
 <h1 style="color:Maroon;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
 <p align="justify" style="padding:5px" >
 <img class="crime" src="/assets/images/Noise.jpeg" width="500" height="400" style="float: left; clear: left">
-</p>
-<p align="justify">
-
-
 
 Living in New York provides great comfort, from being able to order food at any time of day to great nightlife as well as excellent job opportunities. But it comes with sacrifice, city’s major noise pollution.
 More than 30 million people in the U.S. have hearing loss due to exposure to loud noise. In New York City, nearly one in six adults report ringing in their ears or hearing loss (<a href="https://www.nyc.gov/site/doh/health/health-topics/noise.page#:~:text=More%20than%2030%20million%20people,their%20ears%20or%20hearing%20loss.">NYC.gov</a>).
