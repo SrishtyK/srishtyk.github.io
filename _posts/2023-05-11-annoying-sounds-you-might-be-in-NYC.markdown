@@ -5,12 +5,12 @@ date:   2023-05-11 16:50:32 +0100
 ---
 <html>
 
-<body style="background-color:rgb(230, 230, 230);">
+<body style="background-color:rgb(255, 230, 230);">
 
 
 
 
-<h1 style="color:Maroon;border:2px solid Tomato;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
+<h1 style="color:Maroon;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
 <p align="justify" style="padding:5px" >
 <img class="crime" src="/assets/images/Noise.jpeg" width="500" height="400" style="float: left; clear: left">
 </p>
@@ -26,9 +26,9 @@ On studying the data available, “311 Service Requests from 2010 to the Present
 </p>
 
 <br>
-<h1 style="color:darkred;"><i>THE 5 BOROUGHS</i></h1>
+<h1 style="color:Maroon;"><i>THE 5 BOROUGHS</i></h1>
 
-<h1 style="color:darkred;"><i>BUT WHY HELICOPTER NOISE?</i></h1>
+<h1 style="color:Maroon;"><i>BUT WHY HELICOPTER NOISE?</i></h1>
 
 
 
