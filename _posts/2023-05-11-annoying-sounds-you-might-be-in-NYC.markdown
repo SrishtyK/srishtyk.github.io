@@ -5,7 +5,7 @@ date:   2023-05-11 16:50:32 +0100
 ---
 <html>
 
-<body style="background-color:linear-gradient(#FFFFFF,rgb(173, 216, 230));">
+<body style="background-image:linear-gradient(#FFFFFF,rgb(173, 216, 230));">
 
 
 
