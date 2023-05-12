@@ -5,12 +5,12 @@ date:   2023-05-11 16:50:32 +0100
 ---
 <html>
 
-<body style="background-color:rgb(241, 208, 208);">
+<body style="background-color:rgb(230, 230, 230);">
 
 
 
 
-<h1 style="color:darkred;background-color:rgba(128, 0, 0, 0.5);"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
+<h1 style="color:Maroon;border:2px solid Tomato;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
 <p align="justify" style="padding:5px" >
 <img class="crime" src="/assets/images/Noise.jpeg" width="500" height="400" style="float: left; clear: left">
 </p>
