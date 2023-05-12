@@ -53,15 +53,12 @@ We see that Manhattan has the highest number of complaints because a lot of peop
   
   </p>
   <p style="margin-bottom: 20px;">
-The same report also notes that there have been efforts to address helicopter noise in the city, including regulations around helicopter flight paths and altitudes, and efforts to limit the number of tourist flights. However, the report suggests that these efforts have been only partially effective and that there is still a need for further action to address helicopter noise in the city.
-Laws are enforced and bills are getting passed to curb helicopter noise pollution, like limiting the time when aircraft are allowed and the option to sue companies. Sightseeing flights that don’t follow the city’s rules or depart from outside the Five Boroughs are being banned from the facility. 
-  
-  </p>
-  <p style="margin-bottom: 20px;">
+  Laws are enforced and bills are getting passed to curb helicopter noise pollution, like limiting the time when aircraft are allowed and the option to sue companies. Sightseeing flights that don’t follow the city’s rules or depart from outside the Five Boroughs are being banned from the facility. 
 There have been efforts to address helicopter noise in the city, including regulations around helicopter flight paths and altitudes, and efforts to limit the number of tourist flights. However, the report suggests that these efforts have been only partially effective and that there is still a need for further action to address helicopter noise in the city.
 
+  
+  </p>
 
-</p>
 
 </body>
 </html>
