@@ -37,12 +37,12 @@ All in all, the noise pollution level is very high and in most cases has grown o
 <p align="justify" style="padding:5px">
 Knowing the nature of the complaint group types let's now look at the relationship between them. Analyzing the number of complaints per month in the period pairwise it can be seen that most pairs have a positive correlation between each other.
 
+<img class="crime" src="/assets/images/regression.jpeg" width="437.5" height="500" style="float: right; clear: right; padding:10px;padding-bottom:5px;">
+
 Other complaint group seems to be strongly positively correlated with all the other complaints. This might be because some of the unspecified noise sources could in fact be attributed to another group. It also matches the general impression of previous conclusions showing that noise pollution is mostly growing year by year.
 
 Another pair worth taking a look at would be Construction and Animal noise. There is a clear pattern of positive correlation backed up by coefficient value and statistical significance. This might be due to construction works triggering noise coming from animals. Animals stressed by loud construction machinery often tend to become loud themselves. It only adds magnitude to the already frustrating noise coming from construction.
 
-
-<img class="crime" src="/assets/images/regression.jpeg" width="400" height="400" style="float: right; clear: right; padding:10px;padding-bottom:5px;">
 The highest relationship can be however observed between Traffic and Social noises. Here, the cigar-shaped pattern along with a very strong coefficient means that these two groups are very strongly interrelated. As discussed before there are many similarities between these groups. The more people commute the higher the chance we are going to hear them talk to each other. Also, any kind of popular social event like a concert or sports match means increased traffic in the area let alone parades which from a noise pollution point of view are trafficking social tumult.
 Generally, in most cases, an increase in one type of noise pollution level comes along with an increase in some other group. When it rains it pours. It shows that the noise pollution problem in NY is a very complex issue but it could also potentially mean that tackling some of the issues could also reflect on the other.
 </p>
