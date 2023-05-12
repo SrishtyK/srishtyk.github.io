@@ -12,7 +12,7 @@ date:   2023-05-11 16:50:32 +0100
 
 <h1 style="font-size:35px;font-weight:bold;color:Maroon;"><i>ANNOYING SOUNDS? YOU MIGHT BE IN NYC</i></h1>
 <p align="justify" style="padding:5px" >
-<img class="crime" src="/assets/images/Noise.jpeg" width="500" height="400" style="float: left; clear: left; padding:5px;padding-bottom:0px;">
+<img class="crime" src="/assets/images/Noise.jpeg" width="500" height="400" style="float: left; clear: left; padding:10px;padding-bottom:5px;">
 
 Living in New York provides great comfort, from being able to order food at any time of day to great nightlife as well as excellent job opportunities. But it comes with sacrifice, city’s major noise pollution.
 More than 30 million people in the U.S. have hearing loss due to exposure to loud noise. In New York City, nearly one in six adults report ringing in their ears or hearing loss (<a href="https://www.nyc.gov/site/doh/health/health-topics/noise.page#:~:text=More%20than%2030%20million%20people,their%20ears%20or%20hearing%20loss." style="color: Purple;">NYC.gov</a>).
@@ -33,7 +33,7 @@ Helicopter noise pollution is the most surprising among the groups. Up until 201
 
 All in all, the noise pollution level is very high and in most cases has grown over the last years. Definitely, it is a very big concern for the population of New York.
 </p>
-<img class="crime" src="/assets/images/barplot.jpeg" width="500" height="400" style="float: left; clear: left; padding:5px;padding-bottom:0px;">
+<img class="crime" src="/assets/images/barplot.jpeg" width="500" height="400" style="float: left; clear: left; padding:10px;padding-bottom:5px;">
 <p align="justify" style="padding:5px">
 Knowing the nature of the complaint group types let's now look at the relationship between them. Analyzing the number of complaints per month in the period pairwise it can be seen that most pairs have a positive correlation between each other.
 
@@ -42,7 +42,7 @@ Other complaint group seems to be strongly positively correlated with all the ot
 Another pair worth taking a look at would be Construction and Animal noise. There is a clear pattern of positive correlation backed up by coefficient value and statistical significance. This might be due to construction works triggering noise coming from animals. Animals stressed by loud construction machinery often tend to become loud themselves. It only adds magnitude to the already frustrating noise coming from construction.
 
 
-<img class="crime" src="/assets/images/regression.jpeg" width="500" height="400" style="float: left; clear: left; padding:5px;padding-bottom:0px;">
+<img class="crime" src="/assets/images/regression.jpeg" width="500" height="400" style="float: left; clear: left; padding:10px;padding-bottom:5px;">
 The highest relationship can be however observed between Traffic and Social noises. Here, the cigar-shaped pattern along with a very strong coefficient means that these two groups are very strongly interrelated. As discussed before there are many similarities between these groups. The more people commute the higher the chance we are going to hear them talk to each other. Also, any kind of popular social event like a concert or sports match means increased traffic in the area let alone parades which from a noise pollution point of view are trafficking social tumult.
 Generally, in most cases, an increase in one type of noise pollution level comes along with an increase in some other group. When it rains it pours. It shows that the noise pollution problem in NY is a very complex issue but it could also potentially mean that tackling some of the issues could also reflect on the other.
 </p>
@@ -53,7 +53,7 @@ Generally, in most cases, an increase in one type of noise pollution level comes
 <p align="justify" style="padding:5px" >
 
 In this section we will look at the complaints from a geographical perspective. As everybody knows New York City is divided in 5 boroughs. Each of them has its own characteristics and history. Manhattan is known for being the fancy, financial centre of the island. Brooklyn for being the most populous borough, for live music, eclectic eats, pro sports, immigrant history and world-class culture. And the Brooklyn Bridge.(<a href="https://www.nycgo.com/neighborhoods-boroughs/about-nyc-five-boroughs" style="color: Purple;">NYC Five Boroughs</a>) Queens is the largest and fastest developing borough of The City. (<a href="https://www.introducingnewyork.com/queens" style="color: Purple;">Queens</a>) Bronx was known for its gang activities and for its poverty stricken neighbourhoods in the twentieth century. In recent years, the county has shifted 180º and has witnessed significant development.(<a href="https://www.introducingnewyork.com/bronx" style="color: Purple;">Bronx</a>) Staten Island is the greenest borough, with a rich maritime history, it is best known for its beaches, vast parkland and even a fully preserved colonial village.(<a href="https://www.nycgo.com/neighborhoods-boroughs/about-nyc-five-boroughs" style="color: Purple;">NYC Five Boroughs</a>)
-<img class="crime" src="/assets/images/maps.png" width="600" height="700" style="float: left; clear: left; padding:5px;padding-bottom:0px;">
+<img class="crime" src="/assets/images/maps.png" width="600" height="700" style="float: left; clear: left; padding:10px;padding-bottom:5px;">
 So what borough do you think is the one that complains the most and about what? Today we are finding it out. 
 To understand the plots: the lighter the color the more complaints were reported, the darker the color the fewer.
 As you can see we have six different plots in the side figure, each of the six plots takes into account one type of noise, as we explained before we have divided the noise complaints into six types: social noise, animal noise, traffic noise, construction noise, helicopter noise and other kind of noise. The information that is immediately noticeable by looking at the picture is that the borough that complains the most in most categories is Manhattan. It wins for traffic noise, helicopter noise, construction noise and other types of noise, which if we think that the main infastructures and also the centre of work life and most of the available hospitals in the city are in this zone, it shouldn't surprise us. 
