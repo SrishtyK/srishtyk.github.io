@@ -37,7 +37,7 @@ All in all, the noise pollution level is very high and in most cases has grown o
 <p align="justify" style="padding:5px">
 Knowing the nature of the complaint group types let's now look at the relationship between them. Analyzing the number of complaints per month in the period pairwise it can be seen that most pairs have a positive correlation between each other.
 
-<img class="crime" src="/assets/images/regression.jpeg" width="437.5" height="500" style="float: right; clear: right; padding:10px;padding-bottom:5px;">
+<img class="crime" src="/assets/images/regression.jpeg" width="437.5" style="float: right; clear: right; padding:10px;padding-bottom:5px;">
 
 Other complaint group seems to be strongly positively correlated with all the other complaints. This might be because some of the unspecified noise sources could in fact be attributed to another group. It also matches the general impression of previous conclusions showing that noise pollution is mostly growing year by year.
 
