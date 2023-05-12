@@ -97,6 +97,10 @@ There have been efforts to address helicopter noise in the city, including regul
   
   </p>
 
+  <p align="justify" style="padding:5px;margin-bottom: 20px;">
+Explainer notebook for the whole analysis can be found <a href="https://github.com/SrishtyK/srishtyk.github.io/blob/main/Final_project_explainer_notebook.zip" style="color: Purple;">HERE</a>
+  </p>
+
 
 </body>
 </html>
